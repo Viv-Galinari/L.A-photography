@@ -1,0 +1,65 @@
+header {
+  position: fixed;
+  top: 50px;
+ 	left: 70px;
+}
+
+h1 {
+	font-size: 40px;
+  font-weight: 900; 
+}
+
+body {
+	font-family: Actor;
+	font-size: 18px;
+	line-height: 1.5;
+	
+	background-color: #004d9d;
+	color: #ffffff;
+}
+
+a {
+  color:  #ffffff;
+  text-decoration: none;
+  margin:  0 10px 0 0;
+  transition:  all 0.5s;
+}
+
+a:hover {
+  color:  #000000;
+}
+
+section {
+  height: 100vh;
+  background-image: url(1.jpg);
+  background-size: cover;
+  background-position:  center;
+  background-attachment: fixed;
+}
+
+.image_2 {
+  background-image:  url(2.jpg);
+  
+}
+
+.image_3 {
+  background-image: url(3.jpg);
+}
+
+.image_4 {
+  background-image: url(4.jpg);
+}
+
+.image_5 {
+  background-image: url(5.jpg);
+}
+
+footer {
+  position: fixed;
+  bottom: 20px;
+  left: 60px;
+}
+
+footer a {
+  margin-rigth: 5px;
+}
